@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //Tes
+    //Tes lagi
 
     public void pindahHalamanAbout(View view){
 
