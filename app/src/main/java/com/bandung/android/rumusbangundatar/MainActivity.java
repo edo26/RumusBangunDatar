@@ -50,6 +50,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //Tes
+
     public void pindahHalamanAbout(View view){
 
         Intent i = new Intent(MainActivity.this,AboutActivity.class);
