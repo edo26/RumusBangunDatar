@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rumus Bangun Datar</string>
+    <string name="persegi">Hitung Luas Persegi</string>
+    <string name="persegipanjang">Hitung Luas Persegi Panjang</string>
+    <string name="lingkaran">Hitung Luas Lingkaran</string>
+    <string name="segitiga">Hitung Luas Segitiga</string>
+    <string name="trapesium">Hitung Luas Trapesium</string>
+    <string name="Tentang">About</string>
+    <string name="hint_persegi">Nilai sisi</string>
+    <string name="hint_persegi_panjang_panjang">Nilai panjang</string>
+    <string name="hint_persegi_panjang_lebar">Nilai lebar</string>
+    <string name="hint_lingkaran">Nilai jari-jari</string>
+    <string name="hint_segitiga_alas">Nilai alas</string>
+    <string name="hint_segitiga_tinggi">Nilai tinggi</string>
+    <string name="hint_trapesium_atas">Nilai atas</string>
+    <string name="hint_trapesium_bawah">Nilai bawah</string>
+    <string name="hint_trapesium_tinggi">Nilai tinggi</string>
+</resources>
