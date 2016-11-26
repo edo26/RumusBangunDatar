@@ -50,8 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //Tes
-    //Tes lagi
+    //Tes komit
 
     public void pindahHalamanAbout(View view){
 
